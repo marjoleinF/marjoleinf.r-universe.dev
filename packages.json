@@ -5,16 +5,19 @@
     },
     {
         "package": "glmertree",
-        "url": "https://r-forge.r-project.org/projects/partykit"
+        "url": "https://r-forge.r-project.org/projects/partykit",
+        "subdir": "pkg/glmertree"
     },
     {
         "package": "gamtree",
         "url": "https://github.com/marjoleinF/gamtree",
-        "subdir": "pkg"
     },
     {
         "package": "curtail",
         "url": "https://github.com/marjoleinF/curtail",
-        "subdir": "pkg"
+    },
+    {
+        "package": "mvs",
+        "url": "https://gitlab.com/wsvanloon/mvs",
     }
 ]
