@@ -10,14 +10,14 @@
     },
     {
         "package": "gamtree",
-        "url": "https://github.com/marjoleinF/gamtree",
+        "url": "https://github.com/marjoleinF/gamtree"
     },
     {
         "package": "curtail",
-        "url": "https://github.com/marjoleinF/curtail",
+        "url": "https://github.com/marjoleinF/curtail"
     },
     {
         "package": "mvs",
-        "url": "https://gitlab.com/wsvanloon/mvs",
+        "url": "https://gitlab.com/wsvanloon/mvs"
     }
 ]
