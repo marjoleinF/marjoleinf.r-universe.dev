@@ -5,7 +5,7 @@
     },
     {
         "package": "glmertree",
-        "url": "https://r-forge.r-project.org/projects/partykit",
+        "url": "https://github.com/r-forge/partykit",
         "subdir": "pkg/glmertree"
     },
     {
